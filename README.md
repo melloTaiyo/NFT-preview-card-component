@@ -9,8 +9,8 @@ Solution URL: (https://github.com/melloTaiyo/NFT-preview-card-component.git)
 
 Live Site URL: (https://mellotaiyo.github.io/NFT-preview-card-component/)
 
-Built with
-Semantic HTML5 markup
-CSS custom properties
-Flexbox
+Built with: 
+Semantic HTML5 markup, 
+CSS custom properties, 
+Flexbox.
 
