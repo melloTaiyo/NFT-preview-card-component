@@ -16,7 +16,7 @@ main{
   flex-direction: column;
   max-width: 327px;
   padding: 24px;
-  margin: auto;
+  margin: 30px auto;
   border-radius: 15px;
   background: #15263F;   
 }
